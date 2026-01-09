@@ -1,7 +1,7 @@
 package TD1;
 
 public class Ex2 {
-    public static void run() {
+    public static void main() {
         System.out.println("-- Exercice 2 --");
         String nom = "Malandain";
         String prenom = "Thomas";

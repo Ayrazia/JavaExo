@@ -3,7 +3,7 @@ package TD1;
 import java.time.Year;
 
 public class Ex11 {
-    public static void run() {
+    public static void main() {
         System.out.println("-- Exercice 11 --");
         int anneeNaissance = 2001;
         int anneeCourante = Year.now().getValue();

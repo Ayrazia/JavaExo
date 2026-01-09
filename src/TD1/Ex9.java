@@ -1,7 +1,7 @@
 package TD1;
 
 public class Ex9 {
-    public static void run() {
+    public static void main() {
         System.out.println("-- Exercice 9 --");
         System.out.println("(5 + 3) * 2 = " + ((5 + 3) * 2));
         System.out.println("10 / 3 (int) = " + (10 / 3));

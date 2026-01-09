@@ -1,7 +1,7 @@
 package TD1;
 
 public class Ex4 {
-    public static void run() {
+    public static void main() {
         System.out.println("-- Exercice 4 --");
         int a = 10;
         int b = 4;

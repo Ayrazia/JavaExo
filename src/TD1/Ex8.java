@@ -1,7 +1,7 @@
 package TD1;
 
 public class Ex8 {
-    public static void run() {
+    public static void main() {
         System.out.println("-- Exercice 8 --");
         int totalMinutes = 135;
         int h = totalMinutes / 60;

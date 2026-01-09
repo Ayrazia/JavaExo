@@ -1,7 +1,7 @@
 package TD1;
 
 public class Ex7 {
-    public static void run() {
+    public static void main() {
         System.out.println("-- Exercice 7 --");
         double prixHT = 100.0;
         double tva = 0.20;
