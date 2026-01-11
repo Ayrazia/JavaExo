@@ -5,9 +5,7 @@ public class GestionParc {
 
         eq.afficherEtat();
         eq.effectuerMaintenance();
-           switch (eq instanceof ) {
 
-           }
 
     }
 }
