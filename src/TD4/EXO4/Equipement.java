@@ -1,9 +1,9 @@
 package TD4.EXO4;
 
 public abstract class Equipement {
-    String reference;
-    String emplacement;
-    boolean enService;
+    protected String reference;
+    protected String emplacement;
+    protected boolean enService;
 
     public Equipement(String reference, String emplacement, boolean enService) {
         this.reference = reference;
